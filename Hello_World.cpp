@@ -2,6 +2,9 @@
 using namespace std;
 
 int main() {
-	    cout << "Hello World!";
-	   	     	        
+int x;
+
+	    cout << "Hello World !";
+	    cin>>x;
+	   	cout<<"this is my first code"   ;	        
 }
